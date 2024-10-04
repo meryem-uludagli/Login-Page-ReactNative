@@ -19,5 +19,4 @@ JavaScript / JSX: Core languages used in the project development.
 # Preview
 
 ![](./assets/images/ScreenRecording2024-10-04at09.02.20-ezgif.com-video-to-gif-converter.gif)
-# Login-Page-ReactNative
-# Login-Page-ReactNative
+
